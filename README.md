@@ -1,4 +1,4 @@
-# hello-world
+.# hello-world
 My first repository
 
-I am seo deeveloper, a system analysis and potential networker
+I am seo deeveloper, a system analysis and potential networker.
